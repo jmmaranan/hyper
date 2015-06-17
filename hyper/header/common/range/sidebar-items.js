@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Range","`Range` header, defined in RFC7233"]],"enum":[["RangeSpec","Each 'Range' header can contain one or more RangeSpecs. Each RangeSpec defines a range of units to fetch"]]});
